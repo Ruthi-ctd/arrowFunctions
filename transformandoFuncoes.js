@@ -1,5 +1,5 @@
 // Aula 07 - 18/06/2021
-// Arrow functions
+// Arrow functions - Exercício 'Transformando funções'
 
 let print = mensagem => mensagem;
 console.log(print('Olá, bom dia'));
