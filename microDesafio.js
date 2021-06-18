@@ -8,4 +8,4 @@ let soma = (n1, n2) => {
   console.log('A soma dos números ' + n1 + ' e ' + n2 + ' é igual a: ');
   return n1 + n2;
 }
-console.log(soma(2, 3));
+console.log(soma(10, 10));
